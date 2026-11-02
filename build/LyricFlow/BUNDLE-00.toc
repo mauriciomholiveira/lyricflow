@@ -1,3 +1,0 @@
-([('LyricFlow',
-   '/Users/mauriciooliveira/Documents/GitHub/BUSCADOR-DE-LETRAS/dist/LyricFlow',
-   'EXECUTABLE')],)
